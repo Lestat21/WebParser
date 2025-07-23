@@ -1,0 +1,17 @@
+/Users/vinnipsih/WebParser/obj/Debug/net9.0/WebParser.csproj.AssemblyReference.cache
+/Users/vinnipsih/WebParser/obj/Debug/net9.0/WebParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinnipsih/WebParser/obj/Debug/net9.0/WebParser.AssemblyInfoInputs.cache
+/Users/vinnipsih/WebParser/obj/Debug/net9.0/WebParser.AssemblyInfo.cs
+/Users/vinnipsih/WebParser/obj/Debug/net9.0/WebParser.csproj.CoreCompileInputs.cache
+/Users/vinnipsih/WebParser/bin/Debug/net9.0/WebParser
+/Users/vinnipsih/WebParser/bin/Debug/net9.0/WebParser.deps.json
+/Users/vinnipsih/WebParser/bin/Debug/net9.0/WebParser.runtimeconfig.json
+/Users/vinnipsih/WebParser/bin/Debug/net9.0/WebParser.dll
+/Users/vinnipsih/WebParser/bin/Debug/net9.0/WebParser.pdb
+/Users/vinnipsih/WebParser/bin/Debug/net9.0/HtmlAgilityPack.dll
+/Users/vinnipsih/WebParser/obj/Debug/net9.0/WebParser.csproj.Up2Date
+/Users/vinnipsih/WebParser/obj/Debug/net9.0/WebParser.dll
+/Users/vinnipsih/WebParser/obj/Debug/net9.0/refint/WebParser.dll
+/Users/vinnipsih/WebParser/obj/Debug/net9.0/WebParser.pdb
+/Users/vinnipsih/WebParser/obj/Debug/net9.0/WebParser.genruntimeconfig.cache
+/Users/vinnipsih/WebParser/obj/Debug/net9.0/ref/WebParser.dll
