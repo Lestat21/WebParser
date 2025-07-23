@@ -5,3 +5,5 @@
 
 <img width="619" height="637" alt="Снимок экрана 2025-07-23 в 08 18 37" src="https://github.com/user-attachments/assets/3e4fc6d6-99dc-4a92-9e69-8f043f2cf6e4" />
 
+Разработано с использованием ИИ (так быстрее) - по вренмени часа 3. 
+
